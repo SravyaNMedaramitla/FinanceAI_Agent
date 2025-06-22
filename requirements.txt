@@ -1,0 +1,5 @@
+pytest
+openai
+pandas
+faiss-cpu
+python-dotenv
